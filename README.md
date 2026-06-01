@@ -104,6 +104,9 @@ Distance: 45 cm
 Distance: 28 cm
 Distance: 15 cm → Buzzer ON
 
+#image
+
+![project image](https://github.com/anshuldixit281306-bit/ultrasonic-distance-detector/blob/9fbc106172d2e48df5c5b18a4288d24fe08c5993/Screenshot%202026-06-01%20204008.png)
 
 
 
