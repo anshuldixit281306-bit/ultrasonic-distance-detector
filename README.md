@@ -108,6 +108,10 @@ Distance: 15 cm → Buzzer ON
 
 ![project image](https://github.com/anshuldixit281306-bit/ultrasonic-distance-detector/blob/9fbc106172d2e48df5c5b18a4288d24fe08c5993/Screenshot%202026-06-01%20204008.png)
 
+#video
+
+![project video](https://github.com/anshuldixit281306-bit/ultrasonic-distance-detector/blob/4c9f5bba5c5d471bd198b1a44a6de9fcd7b3633e/distance%20detector%20-%20Wokwi%20ESP32%2C%20STM32%2C%20Arduino%20Simulator%20-%20Google%20Chrome%202026-06-01%2020-39-20%20(1).mp4)
+
 
 
 
